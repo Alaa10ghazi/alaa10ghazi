@@ -13,8 +13,7 @@
 [twitter]: https://twitter.com/alaa10ghazi
 [youtube]: https://www.youtube.com/@AlaaGhazi-bn7yz
 [instagram]: https://www.instagram.com/alaaghazi94/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+[linkedin]: https://linkedin.com/in/alaa-ghazi-1b0893286
 
 Here are some ideas to get you started:
 
